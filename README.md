@@ -54,4 +54,4 @@ This docker-compose.yml file also provides some SQL management tools. Note that 
 the password for your MySQL user are exposed in cleartext in the docker-compose.yml, and anyone can then change
 the contents of your database easily.
 
-Do not use as is in production!
+Do not use as is in production! 
