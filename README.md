@@ -1,3 +1,19 @@
+# Activity Tracker
+
+This Web app is an activity tracker. It allows you to track time that you spend on some activities.<br/>
+You can create, edit and delete category.<br/>
+Then you can create activity and choose below details:<br/>
+-> Name<br/>
+-> Date<br/>
+-> Description<br/>
+-> Time <br/>
+-> Category (If any)<br/>
+<br/>
+You can create, edit and delete activity also.<br/>
+You can Signup and Login.<br/>
+<br/>
+You can use it for your own purpose and you can take any functionality from it.<br/>
+
 # Example PHP Docker project
 
 Do not use in production.
